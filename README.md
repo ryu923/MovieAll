@@ -15,5 +15,5 @@ MovieAll is a REACT-APP that allow list top 20 movies of most preferences.
 - Inside of MovieAll folder, install all dependencies (Using the `npm install` command).
 - Inside of MovieAll folder, install PropTypes dependency (Using the 'npm install --save prop-types' command).
 - Inside of MovieAll folder, install LinesEllipsis dependency (Using the 'npm install --save react-lines-ellipsis')
-- inside of chatty_main folder, run the app using the `npm start` command.
+- inside of MovieAll folder, run the app using the `npm start` command.
 - open multiple browser windows and access http://localhost:3000/
