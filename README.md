@@ -4,6 +4,8 @@ MovieAll is a REACT-APP that allow list top 20 movies of most preferences.
 
 *** Automatically updated all of movies based on people most liked in all new movies ***
 
+!["MovieAll"](https://github.com/ryu923/MovieAll/blob/master/public/movieallmain.JPG)
+
 ### - MovieAll
 - React
 - ReactDOM
